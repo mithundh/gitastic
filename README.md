@@ -1,3 +1,3 @@
 # gitastic
 first project
-this is the second edit
+this is the 2nd edit
